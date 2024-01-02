@@ -16,7 +16,10 @@ tailwind.config = {
         workbg:'#F6F5FF',
         btnh3:'#141135',
         breakbtn:'rgba(25, 189, 0, 0.3)',
-        workhoverBg:'#6B62C5'
+        workhoverBg:'#6B62C5',
+        planBG:'#F9F9FB',
+        planP:'#726E9E',
+        planHover:'#6B62C5'
       },
       // color end
 
